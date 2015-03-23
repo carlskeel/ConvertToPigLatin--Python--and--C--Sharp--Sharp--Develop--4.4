@@ -1,0 +1,7 @@
+C:\Users\CarlSkeel\Documents\SharpDevelop Projects\ConvertToPigLatin\ConvertToPigLatin\bin\Debug\ConvertToPigLatin.exe
+C:\Users\CarlSkeel\Documents\SharpDevelop Projects\ConvertToPigLatin\ConvertToPigLatin\bin\Debug\ConvertToPigLatin.dll
+C:\Users\CarlSkeel\Documents\SharpDevelop Projects\ConvertToPigLatin\ConvertToPigLatin\obj\x86\Debug\ConvertToPigLatin.MainForm.resources
+C:\Users\CarlSkeel\Documents\SharpDevelop Projects\ConvertToPigLatin\ConvertToPigLatin\obj\x86\Debug\ConvertToPigLatin.pyproj.GenerateResource.Cache
+C:\Users\CarlSkeel\Documents\SharpDevelop Projects\ConvertToPigLatin\ConvertToPigLatin\obj\x86\Debug\ConvertToPigLatin.exe
+C:\Users\CarlSkeel\Documents\SharpDevelop Projects\ConvertToPigLatin\ConvertToPigLatin\bin\Debug\ConvertToPigLatin.exe.config
+C:\Users\CarlSkeel\Documents\SharpDevelop Projects\ConvertToPigLatin\ConvertToPigLatin\obj\x86\Debug\ConvertToPigLatin.pyprojResolveAssemblyReference.cache

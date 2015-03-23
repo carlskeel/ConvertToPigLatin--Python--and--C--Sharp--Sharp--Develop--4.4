@@ -1,0 +1,7 @@
+C:\Users\CarlSkeel\Documents\SharpDevelop Projects\ConvertToPigLatin\ConvertToPigLatin\bin\Release\ConvertToPigLatin.exe.config
+C:\Users\CarlSkeel\Documents\SharpDevelop Projects\ConvertToPigLatin\ConvertToPigLatin\bin\Release\ConvertToPigLatin.exe
+C:\Users\CarlSkeel\Documents\SharpDevelop Projects\ConvertToPigLatin\ConvertToPigLatin\bin\Release\ConvertToPigLatin.dll
+C:\Users\CarlSkeel\Documents\SharpDevelop Projects\ConvertToPigLatin\ConvertToPigLatin\obj\x86\Release\ConvertToPigLatin.pyprojResolveAssemblyReference.cache
+C:\Users\CarlSkeel\Documents\SharpDevelop Projects\ConvertToPigLatin\ConvertToPigLatin\obj\x86\Release\ConvertToPigLatin.MainForm.resources
+C:\Users\CarlSkeel\Documents\SharpDevelop Projects\ConvertToPigLatin\ConvertToPigLatin\obj\x86\Release\ConvertToPigLatin.pyproj.GenerateResource.Cache
+C:\Users\CarlSkeel\Documents\SharpDevelop Projects\ConvertToPigLatin\ConvertToPigLatin\obj\x86\Release\ConvertToPigLatin.exe

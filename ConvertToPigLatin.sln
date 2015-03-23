@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FD48973F-F585-4F70-812B-4D0503B36CE9}") = "ConvertToPigLatinPy", "ConvertToPigLatin\ConvertToPigLatinPy.pyproj", "{EAC69C0B-5C09-417F-AC0E-8243D2550EB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertToPigCSharp", "ConvertToPigCSharp\ConvertToPigCSharp.csproj", "{768522F0-62BF-4527-818B-EDC0166CD545}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAC69C0B-5C09-417F-AC0E-8243D2550EB5}.Debug|x86.Build.0 = Debug|x86
+		{EAC69C0B-5C09-417F-AC0E-8243D2550EB5}.Debug|x86.ActiveCfg = Debug|x86
+		{EAC69C0B-5C09-417F-AC0E-8243D2550EB5}.Release|x86.Build.0 = Release|x86
+		{EAC69C0B-5C09-417F-AC0E-8243D2550EB5}.Release|x86.ActiveCfg = Release|x86
+		{768522F0-62BF-4527-818B-EDC0166CD545}.Debug|x86.Build.0 = Debug|Any CPU
+		{768522F0-62BF-4527-818B-EDC0166CD545}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{768522F0-62BF-4527-818B-EDC0166CD545}.Release|x86.Build.0 = Release|Any CPU
+		{768522F0-62BF-4527-818B-EDC0166CD545}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

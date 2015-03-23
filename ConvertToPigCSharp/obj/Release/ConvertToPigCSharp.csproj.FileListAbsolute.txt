@@ -1,0 +1,5 @@
+C:\Users\CarlSkeel\Documents\SharpDevelop Projects\ConvertToPigLatin\ConvertToPigCSharp\obj\Release\ConvertToPigCSharp.csprojResolveAssemblyReference.cache
+C:\Users\CarlSkeel\Documents\SharpDevelop Projects\ConvertToPigLatin\ConvertToPigCSharp\obj\Release\ConvertToPigCSharp.MainForm.resources
+C:\Users\CarlSkeel\Documents\SharpDevelop Projects\ConvertToPigLatin\ConvertToPigCSharp\obj\Release\ConvertToPigCSharp.csproj.GenerateResource.Cache
+C:\Users\CarlSkeel\Documents\SharpDevelop Projects\ConvertToPigLatin\ConvertToPigCSharp\bin\Release\ConvertToPigCSharp.exe
+C:\Users\CarlSkeel\Documents\SharpDevelop Projects\ConvertToPigLatin\ConvertToPigCSharp\obj\Release\ConvertToPigCSharp.exe
